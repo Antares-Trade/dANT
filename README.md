@@ -35,7 +35,7 @@ All payments under the referral program are guaranteed by the open source smart 
 
 #### dAnt token profitability
 
-	dAnt profitability is provided by profits gained by Antares business.
+dAnt profitability is provided by profits gained by Antares business.
 Antares is a marketplace with an organized internet platform that provides products and services of reliable and trusted companies. 
 The company earns 10% of the income of all projects of funds and companies placed on the platform, as well as 10% of the income of each user who invests in a project on the platform. 
 
